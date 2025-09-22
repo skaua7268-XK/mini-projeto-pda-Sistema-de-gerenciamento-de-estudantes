@@ -16,14 +16,21 @@ Um sistema simples e funcional para gerenciar estudantes diretamente no terminal
 - **JavaScript (Node.js)**
 - **Terminal / Console**
 
+---
+
 ## 🚀 Como Usar
 
 ### Pré-requisitos
-Certifique-se de que você tem o **Node.js** instalado em seu computador.
+Para rodar este projeto, você precisa ter o **Node.js** instalado em seu computador.
 
-### Passo a Passo
-1. Baixe ou clone o arquivo `cadastroestudante.js` para o seu computador.
-2. Abra o terminal na pasta onde o arquivo está salvo.
-3. Execute o seguinte comando:
-   ```bash
-   node cadastroestudante.js
+#### **Como Instalar o Node.js:**
+
+A maneira mais fácil é baixar o instalador oficial.
+
+1.  Acesse o site: [**nodejs.org/pt-br/download/**](https://nodejs.org/pt-br/download/).
+2.  Baixe a versão **LTS (Long Term Support)** correspondente ao seu sistema operacional.
+3.  Execute o instalador e siga as instruções.
+
+Para verificar se a instalação foi bem-sucedida, abra o terminal e digite:
+```bash
+node -v
