@@ -1,12 +1,11 @@
 # Mini Projeto: Sistema de Gerenciamento de Estudantes
 
-Este projeto é um **sistema de gerenciamento de estudantes** feito em **JavaScript (Node.js)** e funciona via **terminal**.  
-
-Foi desenvolvido como parte do curso **Programadores do Amanhã**.
+Sistema simples de gerenciamento de estudantes feito em **JavaScript (Node.js)** no terminal.  
+Desenvolvido no curso **Programadores do Amanhã** para praticar arrays, objetos, funções e lógica de programação.
 
 ## Funcionalidades
 
-- Cadastrar estudante com nome, idade e notas
+- Cadastrar estudante (nome, idade, notas)
 - Listar todos os estudantes cadastrados
 - Buscar estudante por nome
 - Atualizar dados do estudante
@@ -15,9 +14,8 @@ Foi desenvolvido como parte do curso **Programadores do Amanhã**.
 
 ## Como usar
 
-1. Certifique-se de ter o **Node.js** instalado.
+1. Tenha o **Node.js** instalado.
 2. Abra o terminal na pasta do projeto.
-3. Rode o sistema:
-   ```bash
-   node cadastroestudante.js
-
+3. Execute:
+```bash
+node cadastroestudante.js
