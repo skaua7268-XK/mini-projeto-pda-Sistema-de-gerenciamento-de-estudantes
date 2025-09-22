@@ -19,3 +19,12 @@ Desenvolvido no curso **Programadores do Amanhã** para praticar arrays, objetos
 3. Execute:
 ```bash
 node cadastroestudante.js
+
+
+Siga as instruções do menu no terminal.
+
+## Tecnologias
+
+- JavaScript (Node.js)
+👩‍💻- Terminal / Console
+
